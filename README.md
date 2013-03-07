@@ -11,3 +11,14 @@
 	* The script touches the file to the desktop, which has a pre-configured but easily changed name.  
 
 * This is my first ever script/program. It is not efficient code. 
+
+## Installation ##
+
+I did not write an installer for this, unless you consider the following...
+>Install in `/usr/local/bin/` 
+
+...an installer. 
+So, that's where it goes. It works well enough for me, which is why I wrote it to begin with. 
+Enjoy!
+
+
